@@ -1,10 +1,11 @@
-# yolov5_deepsort
-Pedestrian and vehicle tracking
-### 1.Dependency package
-pip install -r requirements.txt
-### 2.run
+# YOLO-for-Object-Tracking-based-on-IoT
+It is used for pedestrian and vehicle tracking based on AIoT (AI and IoT)
+### 1.Environment Setup
+Please refer to [yolov5](https://github.com/ultralytics/yolov5).
+### 2.Run My Demo
 python demo.py/ count_car.py/ count_person.py
-### 3.dataset
-（1）https://github.com/ysh-strive/car_dataset.git
-
-（2）https://motchallenge.net/ # for person
+### 3.Dataset
+（1）[car](https://github.com/ysh-strive/car_dataset.git)
+（2）[person](https://motchallenge.net/)
+### 4. More Information
+please refer to this 
