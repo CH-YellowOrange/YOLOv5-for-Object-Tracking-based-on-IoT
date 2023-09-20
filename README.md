@@ -8,4 +8,4 @@ python demo.py/ count_car.py/ count_person.py
 （1）[car](https://github.com/ysh-strive/car_dataset.git)
 （2）[person](https://motchallenge.net/)
 ### 4. More Information
-please refer to this 
+please refer to *More Information*, if you want to build a container on IoT
